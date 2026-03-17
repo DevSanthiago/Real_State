@@ -80,7 +80,7 @@ Esse código também traz alterações no front end, mais especificamente de des
 Você pode acessar o repositório e testar o projeto localmente, seguindo as instruções abaixo:
 
 ```bash
-git clone https://github.com/JohnReiiss/Real_State.git
+git clone https://github.com/DevSanthiago/Real_State.git
 ```
 
 1. Crie um banco de dados MySQL chamado `real_state`.
